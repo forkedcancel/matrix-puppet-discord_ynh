@@ -5,7 +5,7 @@
 #=================================================
 
 # Node version
-NODEJS_VERSION=12
+NODEJS_VERSION=16
 
 # dependencies used by the app (must be on a single line)
 pkg_dependencies="postgresql libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev"
